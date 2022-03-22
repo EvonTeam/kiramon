@@ -92,7 +92,7 @@ main p{
     position: absolute;
     bottom: -220px;
     padding: 20px;
-    width: 100%;
+    width: auto;
     background-color: #121212;
 }
 .footer .social{
