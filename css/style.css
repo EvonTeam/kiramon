@@ -35,7 +35,7 @@ header{
     display: flex;
     justify-content: flex-end;
     align-items: center;
-    padding: 20px 10%;
+    padding: 30px 10%;
 }
 .logo{
     cursor: pointer;
@@ -46,7 +46,7 @@ header{
 }
 .nav_links li{
     display: inline-block;
-    padding: 0px 10px;
+    padding: 0px 20px;
 }
 .nav_links li a{
     transition: all 0.3s ease 0s;
@@ -57,7 +57,7 @@ header{
 .nav_links a {
     display: inline-block;
     text-align: center;
-    font-size: 18px;
+    font-size: 20px;
     padding: 14px 16px;
     text-decoration: none;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -90,9 +90,9 @@ main p{
 .footer{
     margin-block-start: 50px;
     position: absolute;
-    bottom: -220px;
+    bottom: -203px;
     padding: 20px;
-    width: auto;
+    width: 1600;
     background-color: #121212;
 }
 .footer .social{
@@ -138,12 +138,12 @@ main p{
 }
 @media screen and (max-width: 768px){
     header {
-        width: auto;
+        width: 440px;
     }
     .dropdown {
         display: block;
         overflow: hidden;
-        margin-right: auto;
+        margin-right: 46px;
     }
     .dropdown .dropbtn {
         font-size: 16px;  
