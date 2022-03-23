@@ -67,6 +67,10 @@ button{
     border-radius: 6px;
     cursor: pointer;
 }
+button ul li{
+    list-style: none;
+    display: inline-block;
+}
 button ul li a{
     color: #fff;
     font-size: 15px;
