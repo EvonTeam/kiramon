@@ -80,9 +80,22 @@ nav ul li a:hover{
     flex-basis: 60%;
     display: flex;
     align-items: center;
+    transform: translateY(0px);
+    animation: float 6s ease-in-out infinite;
 }
 .col-2 .controller{
     width: 90%;
+}
+@keyframes float{
+    0%{
+        transform: translateY(0px);
+    }
+    50%{
+        transform: translateY(-30px);
+    }
+    100%{
+        transform: translateY(0px);
+    }
 }
 .color-box{
     position: absolute;
