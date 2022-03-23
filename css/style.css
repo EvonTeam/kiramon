@@ -66,19 +66,11 @@ button{
     background: linear-gradient(to right, #ffb700, #ffb700);
     border-radius: 6px;
     cursor: pointer;
-}
-button ul li{
-    list-style: none;
-    display: inline-block;
-}
-button ul li a{
-    color: #fff;
     font-size: 15px;
     font-weight: bold;
-    text-decoration: none;
 }
-button ul li a:hover{
-    color: #000;
+button:hover{
+    color: #121212;
 }
 .col-1 h2{
     color: #fff;
