@@ -57,6 +57,25 @@ nav ul li a:hover{
     position: relative;
     margin-left: 50px;
 }
+button{
+    width: 140px;
+    border: 0;
+    padding: 12px 10px;
+    outline: gold;
+    color: #fff;
+    background: linear-gradient(to right, #ffb700, #ffb700);
+    border-radius: 6px;
+    cursor: pointer;
+}
+button ul li a{
+    color: #fff;
+    font-size: 15px;
+    font-weight: bold;
+    text-decoration: none;
+}
+button ul li a:hover{
+    color: #000;
+}
 .col-1 h2{
     color: #fff;
     font-size: 54px;
