@@ -4,12 +4,6 @@
     box-sizing: border-box;
     font-family: 'Poppins', sans-serif;
 }
-.container{
-    width: 100%;
-    min-height: 100vh;
-    background-image: url("../images/main.webp");
-    background-size: cover;
-}
 .container h2{
     color: #fff;
     font-size: 35px;
