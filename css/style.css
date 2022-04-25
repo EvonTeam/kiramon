@@ -4,7 +4,7 @@
     font-family: sans-serif;
 }
 .container{
-    background-image: url("https://raw.githubusercontent.com/vaibhvku/imagine-/main/Newkira.jpeg");
+    background-image: url("../images/Newkira.jpeg");
     background-size: cover;
     width: 100%;
     min-height: 100vh;
