@@ -3,7 +3,7 @@ body {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 h2 {
-    color: #ffb700;
+    color: #f43f5e;
 }
 .main{
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -14,7 +14,7 @@ h2 {
 .main h1 {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 420%;
-    color: #ffb700;
+    color: #f43f5e;
 }
 .main img {
     display: block;
@@ -34,7 +34,7 @@ h2 {
 }
 a {
     text-decoration: none;
-    color: #ffb700;
+    color: #f43f5e;
 }
 .nav-item .nav-link {
     display: block;
@@ -46,7 +46,7 @@ a {
 }
   
 .nav-item .nav-link:hover {
-    background-color: #ffb700;
+    background-color: #f43f5e;
     color: black;
 }
 
@@ -74,7 +74,7 @@ a {
 .pipinstruction {
     font-family: Consolas,"courier new";
     color: rgb(67, 220, 20);
-    background-color: #ffb700;
+    background-color: #f43f5e;
     padding: 2px;
     font-size: 100%;
 }
