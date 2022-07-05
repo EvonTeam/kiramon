@@ -70,7 +70,7 @@ button{
     font-weight: bold;
 }
 button:hover{
-    color: #121212;
+    color: #f43f5e;
 }
 .col-1 h2{
     color: #fff;
@@ -161,7 +161,7 @@ button:hover{
     text-align: center;
 }
 .footer ul li p{
-    color: #f43f5e;
+    color: #fff;
 }
 .footer ul li a:hover{
     color: #f43f5e;
