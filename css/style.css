@@ -5,13 +5,12 @@
 }
 .container{
     background-image: url("../images/main.webp");
-    height: 100vh;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    padding-left: 8%; 
-    padding-right: 8%; 
-    box-sizing: border-box; 
+    background-size: cover; 
+    width: 100%;
+    min-height: 100vh;
+    padding-left: 8%;
+    padding-right: 8%;
+    box-sizing: border-box;
     overflow: hidden;
 }
 .navbar{
@@ -168,16 +167,6 @@ button:hover{
     color: #f43f5e;
 }
 @media screen and (max-width: 700px) {
-.container{ 
-     background-image: url("../images/main.webp");
-     background-size: cover; 
-     width: 100%; 
-     min-height: 100vh;
-     padding-left: 8%; 
-     padding-right: 8%; 
-     box-sizing: border-box; 
-     overflow: hidden;
-}
 nav ul{
     width: 100%;
     position: absolute;
