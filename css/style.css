@@ -5,12 +5,10 @@
 }
 .container{
     background-image: url("../images/Imgback.jpg");
-    background-size: cover;
     height: 100vh;
-    padding-left: 8%;
-    padding-right: 8%;
-    box-sizing: border-box;
-    overflow: hidden;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 .navbar{
     width: 100%;
