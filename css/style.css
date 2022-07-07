@@ -5,6 +5,7 @@
     font-family: sans-serif;
 }
 .container{
+    background-image: url('../images/main.webp');
     width: 100%;
     min-height: 100vh;
     padding-left: 8%;
