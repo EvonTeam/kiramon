@@ -1,11 +1,12 @@
 *{
     margin: 0;
     padding: 0;
+    height: 100%;
     font-family: sans-serif;
 }
 .container{
-    background-image: url("../images/Imgback.jpg");
-    height: 100vh;
+    background-image: url("../images/main.webp");
+    height: 100%;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
