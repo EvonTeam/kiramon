@@ -9,6 +9,7 @@
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+    min-height: 100vh;
     padding-left: 8%; 
     padding-right: 8%; 
     box-sizing: border-box; 
