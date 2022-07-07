@@ -3,14 +3,14 @@
     padding: 0;
     font-family: sans-serif;
 }
-.container{
-    background-image: url("../images/main.webp");
-    background-size: cover;
-    width: 100%;
-    min-height: 100vh;
-    padding-left: 8%;
-    padding-right: 8%;
-    box-sizing: border-box;
+.container{ 
+    background-image: url("../images/main.webp"); 
+    background-size: cover; 
+    width: 100%; 
+    min-height: 100vh; 
+    padding-left: 8%; 
+    padding-right: 8%; 
+    box-sizing: border-box; 
     overflow: hidden;
 }
 .navbar{
