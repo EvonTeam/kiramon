@@ -101,6 +101,7 @@ button:hover{
 .col-2 .controller{
     width: 50%;
     float: right;
+    margin-left: 200px;
 }
 @keyframes float{
     0%{
