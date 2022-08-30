@@ -99,7 +99,7 @@ button:hover{
     animation: float 6s ease-in-out infinite;
 }
 .col-2 .controller{
-    width: 90%;
+    width: 50%;
 }
 @keyframes float{
     0%{
