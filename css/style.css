@@ -63,7 +63,7 @@ button{
     padding: 12px 10px;
     outline: #f43f5e;
     color: #fff;
-    background: linear-gradient(to right, #f43f5e, #f43f5e);
+    background: linear-gradient(to right, #ffb700, #ffb700);
     border-radius: 6px;
     cursor: pointer;
     font-size: 15px;
@@ -134,11 +134,11 @@ button:hover{
     padding-bottom: 4px;
 }
 .footer .social p{
-    color: #f43f5e;
+    color: #ffb700;
 }
 .footer p {
     margin-top: 20px;
-    color: #f43f5e;
+    color: #ffb700;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
     text-align: center;
@@ -164,7 +164,7 @@ button:hover{
     color: #fff;
 }
 .footer ul li a:hover{
-    color: #f43f5e;
+    color: #ffb700;
 }
 @media screen and (max-width: 700px) {
 nav ul{
