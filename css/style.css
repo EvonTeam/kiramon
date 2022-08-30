@@ -94,12 +94,13 @@ button:hover{
     position: relative;
     flex-basis: 60%;
     display: flex;
-    align-items: flex-end;
+    align-items: center;
     transform: translateY(0px);
     animation: float 6s ease-in-out infinite;
 }
 .col-2 .controller{
     width: 50%;
+    float: right;
 }
 @keyframes float{
     0%{
