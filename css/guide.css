@@ -3,7 +3,7 @@ body {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 h2 {
-    color: #f43f5e;
+    color: #ffb700;
 }
 .main{
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -14,7 +14,7 @@ h2 {
 .main h1 {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 420%;
-    color: #f43f5e;
+    color: #ffb700;
 }
 .main img {
     display: block;
@@ -34,7 +34,7 @@ h2 {
 }
 a {
     text-decoration: none;
-    color: #f43f5e;
+    color: #ffb700;
 }
 .nav-item .nav-link {
     display: block;
@@ -46,7 +46,7 @@ a {
 }
   
 .nav-item .nav-link:hover {
-    background-color: #f43f5e;
+    background-color: #ffb700;
     color: black;
 }
 
