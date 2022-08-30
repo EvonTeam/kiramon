@@ -99,9 +99,6 @@ button:hover{
     animation: float 6s ease-in-out infinite;
 }
 .col-2 .controller{
-   float: right;
-   margin-right: 120px;
-   margin-top: 200px;
    width: 50%;
 }
 @keyframes float{
