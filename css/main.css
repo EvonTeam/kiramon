@@ -551,7 +551,24 @@
      margin-left: auto;
      margin-right: 75px;
      width: 60%;
+     display: flex;
+     transform: translateY(0px);
+     animation: float 6s ease-in-out infinite;
+     box-shadow: 0 0 100px #ffb700;
+     border-radius: 500%;
    }
+
+@keyframes float{
+    0%{
+        transform: translateY(0px);
+    }
+    50%{
+        transform: translateY(-30px);
+    }
+    100%{
+        transform: translateY(0px);
+    }
+}
    
    .feature-grid-item {
      display: -ms-grid;
