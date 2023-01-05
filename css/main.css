@@ -378,6 +378,7 @@
    
    .button:hover {
      background-color: #99aab5;
+     box-shadow: 0 0 50px #7289da;
    }
    
    .button.invisible {
