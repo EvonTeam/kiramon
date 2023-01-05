@@ -30,14 +30,14 @@
    }
    
    h2 {
-     margin-top: 0px;
-     margin-bottom: 30px;
-     font-size: 56px;
-     line-height: 64px;
-     font-weight: 700;
-     letter-spacing: -0.03em;
-   }
-  
+    display: block;
+    margin-top: 0;
+    padding-top: 60px;
+    padding-bottom: 10;
+    font-family: prompt,sans-serif;
+    font-size: calc(1.325rem + .9vw);
+    text-align: center
+  }
 
   h3 {
      margin-top: 0px;
@@ -367,7 +367,7 @@
      -ms-flex-align: center;
      align-items: center;
      border-radius: 8px;
-     background-color: #ffb700;
+     background-color: #7289da;
      -webkit-transition: background-color 300ms ease;
      transition: background-color 300ms ease;
      font-size: 18px;
@@ -377,7 +377,7 @@
    }
    
    .button:hover {
-     background-color: #ffb700;
+     background-color: #99aab5;
    }
    
    .button.invisible {
@@ -907,7 +907,7 @@
      padding: 2px 12px;
      border-radius: 100px;
      background-color: #ffff;
-     color: #ffb700;
+     color: #7289da;
      font-size: 14px;
      font-weight: 700;
      text-align: center;
@@ -942,7 +942,7 @@
    .pricing-number {
      margin-right: 8px;
      color: #fff;
-     font-size: 48px;
+     font-size: 20px;
      line-height: 40px;
      font-weight: 700;
    }
