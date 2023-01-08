@@ -1,6 +1,20 @@
 body {
-    background-color: #000000;
+    background-color: #282b30;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+::-webkit-scrollbar {
+    width: 10px;
+}
+  
+  /* Track */
+::-webkit-scrollbar-track {
+    background: transparent; 
+}
+   
+  /* Handle */
+::-webkit-scrollbar-thumb {
+    background: black;
+    border: 1px solid white;
 }
 h2 {
     color: #ffb700;
