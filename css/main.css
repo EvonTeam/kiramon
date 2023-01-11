@@ -2804,7 +2804,8 @@ blockquote {
   -webkit-align-items: center;
   -ms-flex-align: center;
   align-items: center;
-  box-shadow: 0 0 100px #ffb700;
+  border: 5px solid #fff;
+  border-radius: 8px;
 }
 
 .cta-section {
